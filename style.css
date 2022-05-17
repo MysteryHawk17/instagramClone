@@ -1,0 +1,138 @@
+*
+{
+ margin: 0px;
+ padding: 0px;
+ box-sizing: border-box;
+ /* border: 1px solid red; */
+}
+.body
+{
+    background-color:#fafafa ;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 100vh;
+    display: flex;
+
+
+}
+.wrapper
+{
+    display: flex;
+}
+
+.left
+{
+    position: relative;
+    /* padding: 75px 175px; */
+    padding-left: 155px;
+    
+}
+.right
+{
+    margin-top: 15px;
+}
+.panellogin
+{
+    margin-top: 15px;
+  border-radius: 15px; 
+  border: 1px solid rgba(230, 230, 230, 0.911);
+  width: 300px;
+  background-color: rgba(230, 230, 230, 0.911);
+
+ 
+  
+  padding: 50px 50px;
+  margin-bottom: 5px;
+}
+.fp
+{
+    text-align: center;
+}
+.panelsignup
+{
+    display: flex;
+    border-radius: 15px; 
+    border: 1px solid rgba(230, 230, 230, 0.911);
+    width: 300px;
+    background-color: rgba(230, 230, 230, 0.911);
+    margin-bottom: 25px;
+   
+    
+     
+
+}
+.appgetr
+{
+
+    /* padding-right: 150px; */
+    /* text-align: center; */
+    padding-left: 115px;
+}
+.inputBox
+{
+    margin-bottom: 7px;
+}
+.button
+{
+    width: 165px;
+    background-color: rgba(9, 35, 207, 0.724);
+}
+.screen
+{
+    position: relative;
+    right: 310px;
+    font-weight: 200;
+    bottom: 90px;
+   
+}
+.divider
+{
+    margin-top: 3px;
+}
+.right
+{
+    position: relative;
+    padding: -50px  ;
+}
+
+.panelsignup
+{
+    display: flex;
+    text-align: center ;
+}
+.dha
+{
+    text-align: center;
+    padding-left: 65px;
+
+}
+#logo
+{
+   
+   width: 150px;
+   height: 75px;
+
+
+}
+.signuplink
+{
+    text-decoration: none;
+    color: rgba(0, 157, 255, 0.904);
+}
+.fb
+{
+    text-decoration: none;
+}
+.fp
+{
+    text-decoration: none;
+    padding-left: 15px;
+}
+.AppleStore
+{
+    width: 150px;
+}
+.googleApp
+{
+    width: 150px;
+}
+
